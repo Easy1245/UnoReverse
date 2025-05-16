@@ -1,0 +1,306 @@
+[Thu May 15 16:34:37 2025] UnoReverse server gestart
+[Thu May 15 16:34:37 2025] Wacht op nieuwe verbinding...
+[Thu May 15 16:36:02 2025] UnoReverse server gestart
+[Thu May 15 16:36:02 2025] Wacht op nieuwe verbinding...
+[Thu May 15 16:36:24 2025] Verbinding van 127.0.0.1:33600
+[Thu May 15 16:36:24 2025] Ontvangen: Hallo vanaf de client!
+[Thu May 15 16:36:24 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Thu May 15 16:36:24 2025] Reverse payload verzonden
+[Thu May 15 16:36:24 2025] Verbinding gesloten
+
+[Thu May 15 16:36:24 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:18:37 2025] UnoReverse server gestart
+[Fri May 16 07:18:37 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:23:51 2025] Verbinding van 127.0.0.1:49570
+[Fri May 16 07:23:51 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:23:51 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:23:51 2025] Reverse payload verzonden
+[Fri May 16 07:23:51 2025] Verbinding gesloten
+
+[Fri May 16 07:23:51 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:25:27 2025] Verbinding van 127.0.0.1:37082
+[Fri May 16 07:25:27 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:25:27 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:25:27 2025] Reverse payload verzonden
+[Fri May 16 07:25:27 2025] Verbinding gesloten
+
+[Fri May 16 07:25:27 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:37:30 2025] UnoReverse server gestart
+[Fri May 16 07:37:30 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:40:36 2025] Verbinding van 127.0.0.1:52904
+[Fri May 16 07:40:36 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:40:36 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:40:36 2025] Reverse payload verzonden
+[Fri May 16 07:40:36 2025] Verbinding gesloten
+
+[Fri May 16 07:40:36 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:41:48 2025] Verbinding van 127.0.0.1:41204
+[Fri May 16 07:41:48 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:41:48 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:41:48 2025] Reverse payload verzonden
+[Fri May 16 07:41:48 2025] Verbinding gesloten
+
+[Fri May 16 07:41:48 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:44:36 2025] UnoReverse server gestart
+[Fri May 16 07:44:36 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:45:00 2025] Verbinding van 127.0.0.1:45498
+[Fri May 16 07:45:00 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:45:00 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:45:00 2025] Reverse payload verzonden
+[Fri May 16 07:45:00 2025] Verbinding gesloten
+
+[Fri May 16 07:45:00 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:46:10 2025] Verbinding van 127.0.0.1:59480
+[Fri May 16 07:46:10 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:46:10 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:46:10 2025] Reverse payload verzonden
+[Fri May 16 07:46:10 2025] Verbinding gesloten
+
+[Fri May 16 07:46:10 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:49:26 2025] UnoReverse server gestart
+[Fri May 16 07:49:26 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:49:43 2025] Verbinding van 127.0.0.1:55926
+[Fri May 16 07:49:43 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:49:44 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:49:44 2025] Reverse payload verzonden
+[Fri May 16 07:49:44 2025] Verbinding gesloten
+
+[Fri May 16 07:49:44 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:51:52 2025] UnoReverse server gestart
+[Fri May 16 07:51:52 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:52:00 2025] Verbinding van 127.0.0.1:52492
+[Fri May 16 07:52:00 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:52:00 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:52:00 2025] Reverse payload verzonden
+[Fri May 16 07:52:00 2025] Verbinding gesloten
+
+[Fri May 16 07:52:00 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:53:44 2025] UnoReverse server gestart
+[Fri May 16 07:53:44 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:54:40 2025] Verbinding van 127.0.0.1:39114
+[Fri May 16 07:54:40 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:54:40 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:54:40 2025] Reverse payload verzonden
+[Fri May 16 07:54:40 2025] Verbinding gesloten
+
+[Fri May 16 07:54:40 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:55:33 2025] Verbinding van 127.0.0.1:57494
+[Fri May 16 07:55:33 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:55:33 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:55:33 2025] Reverse payload verzonden
+[Fri May 16 07:55:33 2025] Verbinding gesloten
+
+[Fri May 16 07:55:33 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:59:00 2025] UnoReverse server gestart
+[Fri May 16 07:59:00 2025] Wacht op nieuwe verbinding...
+[Fri May 16 07:59:38 2025] Verbinding van 127.0.0.1:60902
+[Fri May 16 07:59:38 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 07:59:38 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 07:59:38 2025] Reverse payload verzonden
+[Fri May 16 07:59:38 2025] Verbinding gesloten
+
+[Fri May 16 07:59:38 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:01:08 2025] UnoReverse server gestart
+[Fri May 16 08:01:08 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:01:21 2025] Verbinding van 127.0.0.1:40390
+[Fri May 16 08:01:21 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 08:01:21 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 08:01:21 2025] Reverse payload verzonden
+[Fri May 16 08:01:21 2025] Verbinding gesloten
+
+[Fri May 16 08:01:21 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:03:15 2025] UnoReverse server gestart
+[Fri May 16 08:03:15 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:03:26 2025] Verbinding van 127.0.0.1:58758
+[Fri May 16 08:03:26 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 08:03:26 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 08:03:26 2025] Reverse payload verzonden
+[Fri May 16 08:03:26 2025] Verbinding gesloten
+
+[Fri May 16 08:03:26 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:08:31 2025] UnoReverse server gestart
+[Fri May 16 08:08:31 2025] Wacht op nieuwe verbinding...
+[Fri May 16 08:10:07 2025] Verbinding van 127.0.0.1:58430
+[Fri May 16 08:10:07 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 08:10:07 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 08:10:07 2025] Reverse payload verzonden
+[Fri May 16 08:10:07 2025] Verbinding gesloten
+
+[Fri May 16 08:10:07 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:34:14 2025] UnoReverse server gestart
+[Fri May 16 09:34:14 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:34:36 2025] Verbinding van 127.0.0.1:43236
+[Fri May 16 09:34:36 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 09:34:36 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 09:34:36 2025] Reverse payload verzonden
+[Fri May 16 09:34:36 2025] Verbinding gesloten
+
+[Fri May 16 09:34:36 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:39:00 2025] UnoReverse server gestart
+[Fri May 16 09:39:00 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:39:15 2025] Verbinding van 127.0.0.1:33268
+[Fri May 16 09:39:15 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 09:39:15 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 09:39:15 2025] Reverse payload verzonden
+[Fri May 16 09:39:15 2025] Verbinding gesloten
+
+[Fri May 16 09:39:15 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:46:08 2025] UnoReverse server gestart
+[Fri May 16 09:46:08 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:46:17 2025] Verbinding van 127.0.0.1:44428
+[Fri May 16 09:46:17 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 09:46:17 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 09:46:17 2025] Reverse payload verzonden
+[Fri May 16 09:46:17 2025] Verbinding gesloten
+
+[Fri May 16 09:46:17 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:54:47 2025] UnoReverse server gestart
+[Fri May 16 09:54:47 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:55:16 2025] UnoReverse server gestart
+[Fri May 16 09:55:16 2025] Wacht op nieuwe verbinding...
+[Fri May 16 09:55:27 2025] Verbinding van 127.0.0.1:39236
+[Fri May 16 09:55:27 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 09:55:27 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 09:55:27 2025] Reverse payload verzonden
+[Fri May 16 09:55:27 2025] Verbinding gesloten
+
+[Fri May 16 09:55:27 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:00:55 2025] UnoReverse server gestart
+[Fri May 16 10:00:55 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:03:08 2025] Verbinding van 127.0.0.1:41836
+[Fri May 16 10:03:08 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 10:03:08 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 10:03:08 2025] Reverse payload verzonden
+[Fri May 16 10:03:08 2025] Verbinding gesloten
+
+[Fri May 16 10:03:08 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:05:00 2025] UnoReverse server gestart
+[Fri May 16 10:05:00 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:07:04 2025] Verbinding van 127.0.0.1:43900
+[Fri May 16 10:07:04 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 10:07:04 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 10:07:04 2025] Reverse payload verzonden
+[Fri May 16 10:07:04 2025] Verbinding gesloten
+
+[Fri May 16 10:07:04 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:10:36 2025] Verbinding van 127.0.0.1:43940
+[Fri May 16 10:10:36 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 10:10:37 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 10:10:37 2025] Reverse payload verzonden
+[Fri May 16 10:10:37 2025] Verbinding gesloten
+
+[Fri May 16 10:10:37 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:12:48 2025] UnoReverse server gestart
+[Fri May 16 10:12:48 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:18:13 2025] UnoReverse server gestart
+[Fri May 16 10:18:13 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:19:04 2025] Verbinding van 127.0.0.1:41016
+[Fri May 16 10:19:04 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 10:19:04 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 10:19:04 2025] Reverse payload verzonden
+[Fri May 16 10:19:04 2025] Verbinding gesloten
+
+[Fri May 16 10:19:04 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:25:40 2025] UnoReverse server gestart
+[Fri May 16 10:25:40 2025] Wacht op nieuwe verbinding...
+[Fri May 16 10:26:04 2025] Verbinding van 127.0.0.1:53520
+[Fri May 16 10:26:04 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 10:26:04 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 10:26:04 2025] Reverse payload verzonden
+[Fri May 16 10:26:04 2025] Verbinding gesloten
+
+[Fri May 16 10:26:04 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:26:48 2025] UnoReverse server gestart
+[Fri May 16 12:26:48 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:27:35 2025] Verbinding van 127.0.0.1:48530
+[Fri May 16 12:27:35 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 12:27:35 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 12:27:35 2025] Reverse payload verzonden
+[Fri May 16 12:27:35 2025] Verbinding gesloten
+
+[Fri May 16 12:27:35 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:46:34 2025] UnoReverse server gestart
+[Fri May 16 12:46:34 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:48:17 2025] Verbinding van 127.0.0.1:57524
+[Fri May 16 12:48:17 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 12:48:17 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 12:48:17 2025] Reverse payload verzonden
+[Fri May 16 12:48:17 2025] Verbinding gesloten
+
+[Fri May 16 12:48:17 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:48:19 2025] Verbinding van 127.0.0.1:59820
+[Fri May 16 12:48:19 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 12:48:19 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 12:48:19 2025] Reverse payload verzonden
+[Fri May 16 12:48:19 2025] Verbinding gesloten
+
+[Fri May 16 12:48:19 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:55:55 2025] UnoReverse server gestart
+[Fri May 16 12:55:55 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:56:43 2025] Verbinding van 127.0.0.1:34482
+[Fri May 16 12:56:55 2025] Ontvangen: 
+
+[Fri May 16 12:56:55 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 12:56:55 2025] Reverse payload verzonden
+[Fri May 16 12:56:55 2025] Verbinding gesloten
+
+[Fri May 16 12:56:55 2025] Wacht op nieuwe verbinding...
+[Fri May 16 12:57:26 2025] Verbinding van 127.0.0.1:59316
+[Fri May 16 12:57:29 2025] Ontvangen: faka nifo
+
+[Fri May 16 12:57:29 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 12:57:29 2025] Reverse payload verzonden
+[Fri May 16 12:57:29 2025] Verbinding gesloten
+
+[Fri May 16 12:57:29 2025] Wacht op nieuwe verbinding...
+[Fri May 16 13:05:38 2025] Verbinding van 127.0.0.1:43338
+[Fri May 16 13:05:41 2025] Ontvangen: 
+
+[Fri May 16 13:05:42 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 13:05:42 2025] Reverse payload verzonden
+[Fri May 16 13:05:42 2025] Verbinding gesloten
+
+[Fri May 16 13:05:42 2025] Wacht op nieuwe verbinding...
+[Fri May 16 13:05:45 2025] Verbinding van 127.0.0.1:43346
+[Fri May 16 13:05:45 2025] Ontvangen: 
+
+[Fri May 16 13:05:45 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 13:05:45 2025] Reverse payload verzonden
+[Fri May 16 13:05:45 2025] Verbinding gesloten
+
+[Fri May 16 13:05:45 2025] Wacht op nieuwe verbinding...
+[Fri May 16 13:05:49 2025] Verbinding van 127.0.0.1:52932
+[Fri May 16 13:06:02 2025] Ontvangen: Hallo from the otherside
+
+[Fri May 16 13:06:02 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 13:06:02 2025] Reverse payload verzonden
+[Fri May 16 13:06:02 2025] Verbinding gesloten
+
+[Fri May 16 13:06:02 2025] Wacht op nieuwe verbinding...
+[Fri May 16 16:55:36 2025] UnoReverse server gestart
+[Fri May 16 16:55:36 2025] Wacht op nieuwe verbinding...
+[Fri May 16 16:55:52 2025] Verbinding van 127.0.0.1:60808
+[Fri May 16 16:55:52 2025] Ontvangen: Hallo vanaf de client!
+[Fri May 16 16:55:52 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 16:55:52 2025] Reverse payload verzonden
+[Fri May 16 16:55:52 2025] Verbinding gesloten
+
+[Fri May 16 16:55:52 2025] Wacht op nieuwe verbinding...
+[Fri May 16 17:11:18 2025] UnoReverse server gestart
+[Fri May 16 17:11:18 2025] Wacht op nieuwe verbinding...
+[Fri May 16 17:12:17 2025] Verbinding van 127.0.0.1:54342
+[Fri May 16 17:13:02 2025] Ontvangen: 
+
+[Fri May 16 17:13:02 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 17:13:02 2025] Reverse payload verzonden
+[Fri May 16 17:13:02 2025] Verbinding gesloten
+
+[Fri May 16 17:13:02 2025] Wacht op nieuwe verbinding...
+[Fri May 16 17:14:35 2025] Verbinding van 127.0.0.1:32828
+[Fri May 16 17:15:15 2025] Ontvangen: Halle server!
+
+[Fri May 16 17:15:15 2025] GeoIP response: {"ip":"127.0.0.1","success":false,"message":"Reserved range"}
+[Fri May 16 17:15:15 2025] Reverse payload verzonden
+[Fri May 16 17:15:15 2025] Verbinding gesloten
+
+[Fri May 16 17:15:15 2025] Wacht op nieuwe verbinding...

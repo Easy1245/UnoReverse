@@ -4,19 +4,18 @@
 #include <unistd.h>
 #include <arpa/inet.h>
 
-#define SERVER_IP "127.0.0.1"  // Of IP van de server
-#define SERVER_PORT 2222
+#define SERVER_IP "127.0.0.1"   // Gebruik eventueel je eigen IP
+#define SERVER_PORT 22
 
-int main() 
-
+int main() {
     int sock;
     struct sockaddr_in server_addr;
     char buffer[4096];
+    int valread;
 
-    // Socket maken
     sock = socket(AF_INET, SOCK_STREAM, 0);
     if (sock < 0) {
-        perror("Socket error");
+        perror("Socket maken mislukt");
         return 1;
     }
 
@@ -24,19 +23,16 @@ int main()
     server_addr.sin_port = htons(SERVER_PORT);
     inet_pton(AF_INET, SERVER_IP, &server_addr.sin_addr);
 
-    // Verbind met server
     if (connect(sock, (struct sockaddr *)&server_addr, sizeof(server_addr)) < 0) {
-        perror("Connect error");
+        perror("Connectie mislukt");
         return 1;
     }
 
-    // Stuur een bericht
     char *message = "Hallo vanaf de client!";
     send(sock, message, strlen(message), 0);
 
     // Ontvang reverse payload
-    int valread;
-    while ((valread = recv(sock, buffer, sizeof(buffer)-1, 0)) > 0) {
+    while ((valread = recv(sock, buffer, sizeof(buffer) - 1, 0)) > 0) {
         buffer[valread] = '\0';
         printf("%s", buffer);
     }
