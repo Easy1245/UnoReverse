@@ -31,7 +31,7 @@ int main() {
 
     printf("Verbinding maken met de UnoReverse server op %s:%d...\n", SERVER_IP, SERVER_PORT);
     if (connect(sock, (struct sockaddr *)&server_addr, sizeof(server_addr)) < 0) {
-        perror("Verbinding mislukt");
+        perror("Verbinding Error");
         close(sock);
         return 1;
     }
